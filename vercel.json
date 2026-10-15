@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://vip.mixclips.top/mix44vip/?utm_source=Saim&utm_medium=S2", 
+      "permanent": true 
+    } 
+  ] 
+}
